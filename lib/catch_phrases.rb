@@ -12,3 +12,8 @@ def link
   danger = "It's Dangerous To Go Alone! Take This."
   puts danger
 end
+
+def all_phrases
+  phrases = mario toadstool link
+  puts phrases
+end
