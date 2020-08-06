@@ -14,6 +14,6 @@ def link
 end
 
 def all_phrases
-  phrases = mario toadstool link
+  phrases = mario, toadstool, link
   puts phrases
 end
